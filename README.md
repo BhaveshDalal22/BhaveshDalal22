@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Bhavesh Dalal — Building software that connects people" width="100%" />
 </p>
 
-<h3 align="center">Bhavesh Dalal | Full-stack development</h3>
+<h3 align="center">Bhavesh Dalal | Full-stack development &amp; Machine Learning</h3>
 
 <p align="center">Turning practical problems into connected web experiences.</p>
 
@@ -20,12 +20,14 @@ I'm Bhavesh, building web applications that bring interfaces, APIs, databases, a
 - 🛠️ **Building:** full-stack applications with React, Node.js, Express, and MySQL.
 - 📍 **Project focus:** location-based search, hospital matching, and emergency response tracking.
 - 🔐 **Implementation:** role-based access, JWT authentication, and ownership-scoped authorization.
+- 🧠 **Machine learning:** legal text classification, passage retrieval, and extractive summarization with Python.
 
-### Selected project
+### Selected projects
 
 | Project | What I built |
 | :--- | :--- |
 | [**LifeLink**](https://github.com/BhaveshDalal22/LifeLink) | An emergency healthcare coordination demo with four role-based dashboards, hospital recommendations, nearest-ambulance matching, maps, and status tracking. |
+| [**AI-Based Legal Case Intelligence**](https://github.com/BhaveshDalal22/law) | A local Python application for historical IPC label suggestions, supporting passage retrieval, extractive summaries, and legal reference extraction, with a FastAPI backend and Streamlit interface. |
 
 ### Inside LifeLink
 
@@ -39,13 +41,16 @@ I'm Bhavesh, building web applications that bring interfaces, APIs, databases, a
 
 ### Toolkit
 
-**Languages:** JavaScript · SQL · HTML · CSS  
+**Languages:** Python · JavaScript · SQL · HTML · CSS  
+**ML & legal text:** scikit-learn · TF-IDF · Logistic Regression · Extractive Summarization  
+**Python apps:** FastAPI · Streamlit · SQLite · PyMuPDF  
 **Frontend:** React · Vite · Tailwind CSS · React Router · Axios · Lucide React  
 **Backend & data:** Node.js · Express.js · MySQL · JWT · bcrypt.js  
 **Maps & location:** Leaflet · React Leaflet · OpenStreetMap · Browser Geolocation API
 
 ### Project highlights
 
+- Built a legal text analysis workflow combining multilabel classification, source-linked retrieval, and extractive summaries.
 - Connected four user roles through a shared healthcare coordination workflow.
 - Combined interactive maps with distance-based hospital and ambulance discovery.
 - Implemented protected routes and access rules scoped to each user's role and records.
