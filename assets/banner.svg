@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Bhavesh Dalal</title>
+  <desc id="desc">Full-stack development and machine learning. Building software that connects people.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09121f"/><stop offset="1" stop-color="#102e39"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#22d3ee" stop-opacity=".16"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#67e8f9" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <ellipse cx="1010" cy="150" rx="280" ry="220" fill="url(#glow)"/>
+  <rect x="24" y="24" width="1152" height="252" rx="10" fill="none" stroke="#2c6471"/>
+  <rect x="64" y="67" width="32" height="4" rx="2" fill="#22d3ee"/>
+  <text x="64" y="105" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="4">CODE · CONNECT · CREATE</text>
+  <text x="60" y="168" fill="#f0f9ff" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="2">BHAVESH DALAL</text>
+  <text x="64" y="207" fill="#b6cbd4" font-family="Segoe UI,Arial,sans-serif" font-size="20">Building software that connects people.</text>
+  <text x="64" y="247" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">FULL-STACK DEVELOPMENT · MACHINE LEARNING</text>
+  <g fill="none" stroke="#22d3ee" stroke-width="2" opacity=".6">
+    <path d="M933 98l-43 51 43 51M1037 98l43 51-43 51M1003 84l-36 130"/>
+    <circle cx="984" cy="149" r="98" stroke-opacity=".22"/>
+  </g>
+</svg>
